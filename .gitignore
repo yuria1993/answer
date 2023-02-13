@@ -1,0 +1,17 @@
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/vendor
+.env
+.env.backup
+.phpunit.result.cache
+docker-compose.override.yml
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+
+.idea/commandlinetools/Laravel_2022_05_26_9_37.xml
+.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd
+.idea/phpunit.xml
